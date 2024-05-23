@@ -1,0 +1,154 @@
+[
+    {
+        "address": "0x2c901fE326c01ab74A62a9A7530835e82098aC7a",
+        "top_rate": 50,
+        "token_name": "UNIT",
+        "token_address": "0x1e241521f4767853b376c2fe795a222a07d588ee",
+        "profit_rate": 0,
+        "reason": " Win rate is 75.00%"
+    },
+    {
+        "address": "0x384375dF988DA94Ceb98559F4FcfcDA11eDEDE1b",
+        "top_rate": 32,
+        "token_name": "CRAZY",
+        "token_address": "0xad5fdc8c3c18d50315331fca7f66efe5033f6c4c",
+        "profit_rate": 0,
+        "reason": " Win rate is 75.00%"
+    },
+    {
+        "address": "0xe85Ce71Db7Aa7Ca3Ab6d780C3CB861826353Ad44",
+        "top_rate": 35,
+        "token_name": "CRAZY",
+        "token_address": "0xad5fdc8c3c18d50315331fca7f66efe5033f6c4c",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0x04e44Ae5878115F1FD9aDA0162a6316447bcc40e",
+        "top_rate": 40,
+        "token_name": "CRAZY",
+        "token_address": "0xad5fdc8c3c18d50315331fca7f66efe5033f6c4c",
+        "profit_rate": 0,
+        "reason": " Total PNL by roi is 4161.82%"
+    },
+    {
+        "address": "0xd360b99497Aa4C66d6F8d375de18255a31eDa5e4",
+        "top_rate": 2,
+        "token_name": "EREKT",
+        "token_address": "0xcc7c2146b16850e532605cdb07f18c62cb066962",
+        "profit_rate": 0,
+        "reason": " Average profit is $6397.40, Win rate is 100.00%"
+    },
+    {
+        "address": "0xC11bFc99D094d82B11848A7C9d1d43d8679aE4bD",
+        "top_rate": 3,
+        "token_name": "EREKT",
+        "token_address": "0xcc7c2146b16850e532605cdb07f18c62cb066962",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0xaeF09b228e06dEF7DE5Fe925eE1426117053C5D9",
+        "top_rate": 5,
+        "token_name": "EREKT",
+        "token_address": "0xcc7c2146b16850e532605cdb07f18c62cb066962",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0xfe1bDE991aaDeDcB811f335D486054C88898b7Fd",
+        "top_rate": 20,
+        "token_name": "EREKT",
+        "token_address": "0xcc7c2146b16850e532605cdb07f18c62cb066962",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x2395F56d17327D6B0d9cbd660E3fE7b83FD8c7c8",
+        "top_rate": 22,
+        "token_name": "EREKT",
+        "token_address": "0xcc7c2146b16850e532605cdb07f18c62cb066962",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x4971f9118e260719965C4475008Cc27Be469C9cf",
+        "top_rate": 23,
+        "token_name": "EREKT",
+        "token_address": "0xcc7c2146b16850e532605cdb07f18c62cb066962",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0xb5BB393e1EC0298003fee62540130537e72aecbe",
+        "top_rate": 25,
+        "token_name": "EREKT",
+        "token_address": "0xcc7c2146b16850e532605cdb07f18c62cb066962",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0x00992F225Bc6A2Eb788ab8fc31eB393274C49a6D",
+        "top_rate": 31,
+        "token_name": "EREKT",
+        "token_address": "0xcc7c2146b16850e532605cdb07f18c62cb066962",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x4ba51Da73Ec423e337D4cF484382b02a29ff3816",
+        "top_rate": 34,
+        "token_name": "EREKT",
+        "token_address": "0xcc7c2146b16850e532605cdb07f18c62cb066962",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x2318d8FB796dEe2c06E14974300BF9CA2Cc1F5B5",
+        "top_rate": 43,
+        "token_name": "EREKT",
+        "token_address": "0xcc7c2146b16850e532605cdb07f18c62cb066962",
+        "profit_rate": 0,
+        "reason": " Win rate is 70.00%"
+    },
+    {
+        "address": "0x943445E946171e59201bd2f8F044680D5F5d12F5",
+        "top_rate": 2,
+        "token_name": "ORDIBOT",
+        "token_address": "0x0c7b199ac2bca0dba8d1785480648f0318b9a7b8",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x09c234abc31b195d7b4631d4908b75888EBcd241",
+        "top_rate": 31,
+        "token_name": "ORDIBOT",
+        "token_address": "0x0c7b199ac2bca0dba8d1785480648f0318b9a7b8",
+        "profit_rate": 0,
+        "reason": " Total PNL by roi is 5459.04%"
+    },
+    {
+        "address": "0x8ab9Db62660044c1de439A5cDde2e85895572f64",
+        "top_rate": 2,
+        "token_name": "KEK",
+        "token_address": "0xc0200b1c6598a996a339196259ffdc30c1f44339",
+        "profit_rate": 0,
+        "reason": " Total PNL by roi is 10683.92%"
+    },
+    {
+        "address": "0x1EfDf3CD3109167E1EAa5b5E428A457224F64b2A",
+        "top_rate": 7,
+        "token_name": "KEK",
+        "token_address": "0xc0200b1c6598a996a339196259ffdc30c1f44339",
+        "profit_rate": 0,
+        "reason": " Total PNL by roi is 5906.98%"
+    },
+    {
+        "address": "0xB1bf9514d07aC0b2a74F2B42DD3B4Bc17d41BB2d",
+        "top_rate": 18,
+        "token_name": "KEK",
+        "token_address": "0xc0200b1c6598a996a339196259ffdc30c1f44339",
+        "profit_rate": 0,
+        "reason": " Total PNL by roi is 8938.83%"
+    }
+]
